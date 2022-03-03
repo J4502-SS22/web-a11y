@@ -20,7 +20,7 @@
 <br>can we change bar car to similar to what you do on stats.html, thx
 <br>
 <br>data.html
-<br>can you move no disability to be on the far left
+<br>can you move no disability to be on the far RIGHT
 <br>can you change the black and gold colors to something that matches the site colors and conforms to the color standards?
 <br>none of the menus up top link to data.html when you click on data.html
 <br>
